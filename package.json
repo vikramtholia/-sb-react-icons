@@ -1,5 +1,5 @@
 {
-  "name": "@sb/react-icons",
+  "name": "sb-react-icons",
   "version": "1.0.0",
   "peerDependencies": {
     "react": ">=16.2.0",
